@@ -5,12 +5,12 @@ font-size = 12
 # Theme & background
 theme = TokyoNight Night
 background-image = ~/.config/ghostty/bg.png
-background-image-opacity = 0.08
+background-image-opacity = 0.2
 background-image-fit = cover
 
 # Window
 window-padding-x = 12
-window-padding-y = 16
+window-padding-y = 14
 window-padding-balance = true
 window-save-state = always
 unfocused-split-opacity = 0.85
