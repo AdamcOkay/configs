@@ -1,6 +1,7 @@
 /*
+!/.gitignore
 !/ghostty
 !/starship.toml
-!/.gitignore
+!/herdr
 /herdr/*
 !/herdr/config.toml
