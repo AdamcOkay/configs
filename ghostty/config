@@ -1,0 +1,28 @@
+# Font
+font-family = FiraCode Nerd Font
+font-size = 12
+
+# Theme & background
+theme = TokyoNight Night
+background-image = ~/.config/ghostty/reze.png
+background-image-opacity = 0.08
+background-image-fit = cover
+
+# Window
+window-padding-x = 12
+window-padding-y = 16
+window-padding-balance = true
+window-save-state = always
+unfocused-split-opacity = 0.85
+macos-titlebar-style = transparent
+
+# Cursor
+cursor-style = bar
+cursor-style-blink = false
+shell-integration-features = no-cursor
+
+# Quality of life
+mouse-hide-while-typing = true
+copy-on-select = false
+confirm-close-surface = false
+
